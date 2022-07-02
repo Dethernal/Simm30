@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "SOJ26_24")(type "KiCad")(uri "${KIPRJMOD}/SOJ26_24.pretty")(options "")(descr ""))
+  (lib (name "Package_SOJ26_24")(type "KiCad")(uri "${KIPRJMOD}/Package_SOJ26_24.pretty")(options "")(descr ""))
+  (lib (name "Connector_PCBEdge")(type "KiCad")(uri "${KIPRJMOD}/Connector_PCBEdge.pretty")(options "")(descr ""))
+)
